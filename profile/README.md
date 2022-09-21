@@ -86,7 +86,7 @@ networks:
 ```
 
 #### Informations
-> To get info on **environnement variables** of services. Check on the target service's repository. For **Traefik** service too.
+> To get info on **environnement variables** of services. Check on the target service's repository. For **Traefik** service, go on his [docs](https://doc.traefik.io/traefik/).
 
 ## Features
 - Web panel to **configure** the mini-game for the ***host***
