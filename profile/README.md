@@ -11,8 +11,10 @@
 <br>
 
 ## About the project
+[![Core/Api](https://wakatime.com/badge/user/74830337-5399-404a-b89c-ca7dc360e242/project/5a2da6a7-378f-4010-bd40-0d02cbe04030.svg)](https://wakatime.com/badge/user/74830337-5399-404a-b89c-ca7dc360e242/project/5a2da6a7-378f-4010-bd40-0d02cbe04030) [![fastuhc_backend](https://wakatime.com/badge/user/74830337-5399-404a-b89c-ca7dc360e242/project/417bb240-b565-4ea4-9a19-693ffc1f0317.svg)](https://wakatime.com/badge/user/74830337-5399-404a-b89c-ca7dc360e242/project/417bb240-b565-4ea4-9a19-693ffc1f0317) [![fastuhc_web](https://wakatime.com/badge/user/74830337-5399-404a-b89c-ca7dc360e242/project/5494a5a4-6ec5-4424-b960-8273dba0a499.svg)](https://wakatime.com/badge/user/74830337-5399-404a-b89c-ca7dc360e242/project/5494a5a4-6ec5-4424-b960-8273dba0a499)
+
 ***FastUHC*** is an infrastructure composed of a **[backend](https://github.com/FastUHC/fastuhc_backend)**, a **[web-panel](https://github.com/FastUHC/fastuhc_web)**
-and an **[API/CORE](https://github.com/FastUHC/FastUHC)**
+and an **[Core/Api](https://github.com/FastUHC/FastUHC)**
 
 It's used to ***code*** an **UHC** plugin easly with *all* ***features*** of ***FastUHC's*** *system*.
 With the **web panel** used to configure the **UHC** mini-game *coded* with the **API**.
